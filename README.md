@@ -1,9 +1,9 @@
-#Descripción
+# Descripción
 
 Esta página web es una aplicación de interfaz única que implementa el patrón Composite View, integrando tres componentes principales que funcionan de manera independiente pero se presentan en una interfaz unificada.
 Componentes Principales
 
-##Formulario de Contacto
+## Formulario de Contacto
 
 Gestiona la entrada de datos personales (nombre y email)
 Implementa validación básica de campos
