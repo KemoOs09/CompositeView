@@ -29,4 +29,6 @@ Componentes Principales
 - CSS3 para los estilos y diseño responsivo
 - JavaScript vanilla para la lógica de interacción
 
+# Diagrama Uml
+
 ![Front controller (1)](https://github.com/user-attachments/assets/983dffbf-5f40-4ef6-b40e-b606b81d6fa2)
